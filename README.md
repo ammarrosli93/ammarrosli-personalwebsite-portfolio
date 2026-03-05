@@ -5,7 +5,7 @@ It showcases my projects, skills, and future learning plans.
 
 ## 🚀 Live Demo
 
-<a href="https://ammarrosli93.github.io/ammarrosli-personalwebsite-portfolio/">View Portfolio</a>
+<a href="https://ammarrosli93.github.io/ammarrosli-personalwebsite-portfolio/">View Portfolio : https://ammarrosli93.github.io/ammarrosli-personalwebsite-portfolio/</a>
 
 ## ✨ Features
 
@@ -39,4 +39,5 @@ It showcases my projects, skills, and future learning plans.
 <a href="https://github.com/ammarrosli93">
   <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
 </a
+
 
